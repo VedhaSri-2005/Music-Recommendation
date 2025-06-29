@@ -39,19 +39,19 @@ This project dynamically loads freshly released Telugu songs from Spotify, proce
 
 🔹 **Folder Structure**
 
-Music-Recommendation/
-├── app.py                # Streamlit UI
-├── recommend.py          # Recommendation logic
-├── spotify_fetch.py      # Spotify API integration
-├── telugu_songs.csv      # Song data storage
-├── requirements.txt      # Python dependencies
-└── README.md             # Project description
+*Music-Recommendation/
+*├── app.py                # Streamlit UI
+*├── recommend.py          # Recommendation logic
+*├── spotify_fetch.py      # Spotify API integration
+*├── telugu_songs.csv      # Song data storage
+*├── requirements.txt      # Python dependencies
+*└── README.md             # Project description
 
 🚀 **Future Enhancements**
-✨ Use Spotify audio features for better mood detection
-📃 Add filtering by artist, genre, or mood in UI
-🔖 Deploy with database support (SQLite/Firebase)
-🔺 Embed Spotify player previews
+*✨ Use Spotify audio features for better mood detection
+*📃 Add filtering by artist, genre, or mood in UI
+*🔖 Deploy with database support (SQLite/Firebase)
+*🔺 Embed Spotify player previews
 
 👤 Author
-**Muthineni Vedha Sri**
+* **Muthineni Vedha Sri**
