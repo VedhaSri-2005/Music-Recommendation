@@ -1,6 +1,4 @@
 # Music-Recommendation
-# 🎵 Music-Recommendation
-
 A **Telugu Music Recommendation System** built using **Python**, **Spotify API**, and **Streamlit**.
 This project dynamically fetches newly released Telugu songs from Spotify, analyzes their genre and mood, and provides **content-based song recommendations** with direct Spotify play links—all inside a user-friendly web app.
 
