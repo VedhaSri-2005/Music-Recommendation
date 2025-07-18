@@ -7,9 +7,13 @@ A content-based music recommendation web app built with **Streamlit**, recommend
 ## 🚀 Features
 
 - 🔍 **Search Songs**: Search by full or partial title (case-insensitive)
+  
 - 🎤 **Filter by Singer**: Narrow down songs based on your favorite artist
+  
 - 🤖 **Content-Based Recommendations**: Using TF-IDF and cosine similarity
+  
 - 🎵 **Spotify Integration**: View cover art and listen to songs directly via links
+  
 - ⚡ **Responsive UI**: Clean, modern design with horizontal layout of recommended songs
 
 ---
