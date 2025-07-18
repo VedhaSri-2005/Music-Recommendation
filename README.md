@@ -25,14 +25,14 @@ telugu-music-recommender\
 └── README.md           # Project documentation
 
 
-## 🧠 How It Works
-**Songs are fetched using the Spotify API and stored in a CSV file.**
+🧠 How It Works
+✅ Songs are fetched using the Spotify API and stored in a CSV file.
 
--A TF-IDF vectorizer is used to convert song titles and artist names into vectors.
+✅ A TF-IDF vectorizer converts song titles and artist names into feature vectors.
 
--Cosine similarity is calculated to find the most similar songs.
+✅ Cosine similarity is used to calculate how similar one song is to others.
 
--You can select a song and view similar recommendations instantly.
+✅ Users can select or search a song and instantly get similar song recommendations.
 
 ---
 ## 🧑‍💻 Developed By
