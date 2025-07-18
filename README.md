@@ -26,7 +26,7 @@ telugu-music-recommender\
 
 
 ## 🧠 How It Works
-*Songs are fetched using the Spotify API and stored in a CSV file.
+**Songs are fetched using the Spotify API and stored in a CSV file.**
 
 -A TF-IDF vectorizer is used to convert song titles and artist names into vectors.
 
