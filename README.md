@@ -17,8 +17,8 @@ A content-based music recommendation web app built with **Streamlit**, recommend
 ## 📁 Project Structure
 
 telugu-music-recommender/
-#├── app.py              # Streamlit frontend
-#├── recommend.py        # TF-IDF based recommendation engine
+├── app.py              # Streamlit frontend
+├── recommend.py        # TF-IDF based recommendation engine
 ├── spotify_fetch.py    # Script to fetch Telugu songs from Spotify API
 ├── telugu_songs.csv    # Dataset of Telugu songs
 ├── requirements.txt    # Python dependencies
