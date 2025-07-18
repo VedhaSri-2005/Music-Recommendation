@@ -22,7 +22,7 @@ telugu-music-recommender\
 ├── spotify_fetch.py    # Script to fetch Telugu songs from Spotify API\
 ├── telugu_songs.csv    # Dataset of Telugu songs\
 ├── requirements.txt    # Python dependencies\
-└── README.md           # Project documentation\
+└── README.md           # Project documentation
 
 
 ## 🧠 How It Works
